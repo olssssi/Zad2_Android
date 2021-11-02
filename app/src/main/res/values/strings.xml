@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Zad1_Android</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+
+    <string name="q_Poland">Stolicą Polski jest Wrocław</string>
+    <string name="q_England">Stolicą Anglii jest Londyn</string>
+    <string name="q_Germany">Stolicą Niemiec jest Hamburg</string>
+    <string name="q_CzechRepublic">Stolicą Czech jest Praga</string>
+    <string name="q_Greek">Stolicą Grecji są Saloniki</string>
+
+    <string name="correct_answer">Dobrze!</string>
+    <string name="incorrect_answer">Niedobrze!</string>
+
+    <string name="assurance_text_view">Czy na pewno chcesz zobaczyć odpowiedź?</string>
+    <string name="button_confirmation">Zobacz</string>
+    <string name="button_hint">Podpowiedź</string>
+
+    <string name="answer_was_shown">Oszukujesz!</string>
+</resources>
